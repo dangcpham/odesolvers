@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: odesolvers
+Version: 0.1
+Summary: Solvers for ODEs
+Author: Dang Pham
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Requires-Dist: numba
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
