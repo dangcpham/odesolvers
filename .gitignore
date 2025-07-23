@@ -1,0 +1,7 @@
+*.nbc
+*.nbi
+*.pyc
+*.pkl
+*.npy
+
+*/__pycache__/

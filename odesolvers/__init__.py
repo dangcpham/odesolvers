@@ -1,1 +1,1 @@
-from .erk import ERK, AdaptiveERK
+from .erk import FixedERK, AdaptiveERK
